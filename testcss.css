@@ -1,0 +1,146 @@
+body{
+	background-color:#343b40;
+}
+.title{
+	font-family:Copperplate;
+	font-size:40px;
+	margin:30px;
+	border:auto;
+	color:#f0ffff;
+	font-weight:850;
+	
+}
+.place{
+	color:#f0ffff;
+	position: absolute;
+	content: "";
+	left: 50%;
+	top: 5%;
+	font-size:24px;
+	font-family:arial;
+	background-color:#343b40;
+	display:flex;
+	align-items:center;
+	background-color:#FF0066;
+	border-radius:24px;
+	font-family:arial;
+	font-size:24px;
+	color:#f0ffff;
+	border:solid 6px #FF0066;
+	
+	
+}
+.place:hover{
+		background: #2dc997;
+  border: 6px solid #2dc997;
+	
+}
+.place2{
+	color:#f0ffff;
+	position: absolute;
+	content: "";
+	left: 60%;
+	top: 5%;
+	display:flex;
+	align-items:center;
+	background-color:#FF0066;
+	border-radius:24px;
+	font-family:arial;
+	font-size:24px;
+	color:#f0ffff;
+	border:solid 6px #FF0066;
+	font-size:24px;
+	font-family:arial;
+	
+	
+	
+}
+.place2:hover{
+		background: #2dc997;
+  border: 6px solid #2dc997;
+	
+	
+}
+.place3{
+	color:#f0ffff;
+	position: absolute;
+	content: "";
+	left: 40%;
+	top: 5%;
+	display:flex;
+	align-items:center;
+	background-color:#FF0066;
+	border-radius:24px;
+	font-family:arial;
+	font-size:24px;
+	color:#f0ffff;
+	border:solid 6px #FF0066;
+	font-size:24px;
+	font-family:arial;
+
+	
+}
+.place3:hover{
+		background: #2dc997;
+  border: 6px solid #2dc997;
+	
+	  
+	
+}
+.check{
+	width:140px;
+	height:40px;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	background-color:#FF0066;
+	border-radius:24px;
+	font-family:arial;
+	font-size:24px;
+	color:#f0ffff;
+	border:solid 6px #FF0066;
+	position: absolute;
+	content: "";
+	left: 85%;
+	top: 3%;
+	
+	
+	
+}
+.check:hover{
+	background: #2dc997;
+  border: 6px solid #2dc997;
+	
+}
+.place6{
+	position: absolute;
+	content: "";
+	left: 55%;
+	top: 30%;
+}
+.photo{
+	width:200px;
+	height:200px;
+	border:solid 20px #FF0066;
+	padding-left:12px;
+	padding-right:12px;
+	padding-bottom:12px;
+	padding-top:12px;
+	margin-left:12px;
+	margin-top:150px;
+clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+
+.pragraph{
+	color:f0ffff;
+	font-size:20px;
+	font-family:arial;
+	margin:-50px 220px;
+	line-height:26px;
+	
+}
+*{
+	margin:0;
+	padding:0;
+}
+
